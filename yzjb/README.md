@@ -4,3 +4,5 @@ cron 0-59/20 6-22 * * *  yzjb/yzjb.js
 
 抓取 域名为 huyitool.jidiandian.cn 的 authorization
 变量格式: export yzjb_data=' authorization 1 @ authorization 2 '  多个账号用 @分割 
+
+如果出现unidentified，重新抓包
